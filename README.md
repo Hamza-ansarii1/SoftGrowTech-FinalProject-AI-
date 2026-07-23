@@ -25,9 +25,14 @@ pip install nltk scikit-learn
 
 ## ▶️ Run the Project
 
+## ▶️ How to Run
+
 ```bash
-python chatbot.py
+pip install nltk scikit-learn
+jupyter notebook
 ```
+
+Open **AI Chatbot for Customer Support.ipynb** and run all cells.
 
 ## 💬 Example
 
